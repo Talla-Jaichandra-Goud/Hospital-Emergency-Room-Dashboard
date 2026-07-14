@@ -61,7 +61,7 @@ This dashboard addresses key business questions such as:
 - **52%** of patients were admitted, whereas **48%** were discharged after treatment.
 - The **20–29** age group recorded the highest number of emergency room visits.
 - Patient distribution was nearly balanced, with **51% Male** and **49% Female**.
-- Most patients required **no department referral**, while **General Practice** and **Orthopedics** received the highest referral volumes.
+- Most patients required **no department referral**, while **General Practice** & **Orthopedics** received the highest referrals.
 
 ---
 

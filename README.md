@@ -43,16 +43,16 @@ This dashboard addresses key business questions such as:
 
 ## 📊 Dashboard Features
 
-- 📌 Total Patients KPI
-- ⏳ Average Wait Time KPI
-- ⭐ Patient Satisfaction Score KPI
-- 🚑 Patient Attendance Status (On-Time vs Delay)
-- 🏥 Admission Status Analysis
-- 👨‍⚕️ Gender-wise Patient Distribution
-- 👶 Patient Analysis by Age Group
-- 🩺 Department Referral Analysis
-- 📅 Interactive Year Filter
-- 📆 Interactive Month Slicer
+- Total Patients KPI
+- Average Wait Time KPI
+- Patient Satisfaction Score KPI
+- Patient Attendance Status (On-Time vs Delay)
+- Admission Status Analysis
+- Gender-wise Patient Distribution
+- Patient Analysis by Age Group
+- Department Referral Analysis
+- Interactive Year Filter
+- Interactive Month Slicer
 
 ---
 

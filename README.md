@@ -8,8 +8,6 @@ This project presents an interactive Hospital Emergency Room Dashboard built in 
 
 ## 🎯 Business Problem
 
-Hospital emergency rooms receive a large number of patients every day. Without effective reporting, it becomes difficult to monitor operational performance and identify areas for improvement.
-
 This dashboard addresses key business questions such as:
 
 - How many patients visited the emergency room?
@@ -61,7 +59,7 @@ This dashboard addresses key business questions such as:
 - **52%** of patients were admitted, whereas **48%** were discharged after treatment.
 - The **20–29** age group recorded the highest number of emergency room visits.
 - Patient distribution was nearly balanced, with **51% Male** and **49% Female**.
-- Most patients required **no department referral**, while **General Practice** & **Orthopedics** received the highest referrals.
+- Most patients required **no department referral**, while **General** & **Orthopedics** received the highest referrals.
 
 ---
 

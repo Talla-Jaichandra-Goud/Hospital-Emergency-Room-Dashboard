@@ -1,12 +1,8 @@
 # Hospital Emergency Room Dashboard
-A healthcare analytics dashboard developed in Microsoft Excel that transforms raw emergency room data into actionable insights through interactive visualizations, KPI reporting, and business analysis.
-# 🏥 Hospital Emergency Room Dashboard
 
 ## 📌 Project Overview
 
-The **Hospital Emergency Room Dashboard** is an interactive Microsoft Excel dashboard designed to analyze emergency room operations and provide actionable insights for hospital management.
-
-This dashboard enables healthcare administrators to monitor patient flow, waiting times, admission status, patient satisfaction, demographic distribution, and department referrals. By converting raw healthcare data into meaningful visualizations, it supports data-driven decision-making and operational improvements.
+This project presents an interactive Hospital Emergency Room Dashboard built in Microsoft Excel to analyze emergency room operations. It provides insights into patient flow, waiting times, admissions, patient satisfaction, demographics, and department referrals, helping hospital management make informed, data-driven decisions.
 
 ---
 
@@ -81,19 +77,6 @@ This dashboard addresses key business questions such as:
 8. Design the dashboard layout.
 9. Generate business insights.
 
----
-
-## 💼 Business Value
-
-This dashboard helps hospital management to:
-
-- Monitor emergency room performance.
-- Track patient waiting times.
-- Improve operational efficiency.
-- Analyze patient demographics.
-- Monitor admission trends.
-- Identify high-demand referral departments.
-- Support data-driven healthcare decisions.
 
 ---
 
